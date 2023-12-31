@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+.blog {
+    width: 80%;
+  background-color: rgb(176, 146, 106);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  max-width: 1000px;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 04;
+    margin-bottom: 25px;
+    font-family: 'Times New Roman';
+    color: #63392e;
+} 
+
+h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#63392e;
+    
+}
+h3 {
+    font-size: 26px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #63392e;
+}
+h4 {
+    font-size: 22px;
+    color: #63392e;
+}
+h5 {
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: #63392e;
+ }
+ p {
+    font-size: 16px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #63392e;
+}
+.top line 
+h1, h2, h3, h4, h5, p{
+    text-align: center;
+}
+hr {
+    height: 4px;
+    background-color: #63392e;
+    border-color: #63392e;
+}
+.imageTik {
+    width: 20%; 
+    margin-right: 300px;
+    height: auto;
+    border-radius: 20%;
+}
+.Instagram_icon{
+    width: 20%; 
+    padding-left: 200px;
+    height:auto;
+    border-radius: 10%; 
+} 
